@@ -22,6 +22,7 @@
     "date-fns": "^2.30.0",
     "focus-trap-react": "^10.2.3",
     "framer-motion": "^10.16.4",
+    "gh-pages": "^6.1.1",
     "gray-matter": "^4.0.3",
     "js-cookie": "^3.0.5",
     "lucide-react": "^0.292.0",
